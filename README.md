@@ -6,6 +6,6 @@ Na segunda parte vamos para a prática, é nessa parte que você percebe o quant
 
 Projeto prático Le Scone feito em SASS pelo curso de CSS com SASS da [Origamid](https://www.origamid.com/curso/css-com-sass)
 
-## Link do Projeto: [Le Scone]()
+## Link do Projeto: [Le Scone](https://marcelo-rafael.github.io/le-scone/)
 
 ![Le Scone](le-scone.jpg)
