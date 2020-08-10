@@ -2,7 +2,9 @@
 
 ## Projeto prático Le Scone feito através do curso de CSS com SASS da [Origamid](https://www.origamid.com/curso/css-com-sass)
 
-## Link do Projeto: [Le Scone](https://marcelo-rafael.github.io/sass-projeto-le-scone/)
+## Deploy do Projeto: [Le Scone](https://marcelo-rafael.github.io/sass-projeto-le-scone/)
+
+<img src="lescone.gif" alt="lescone Demo" width="600"/> 
 
 ### Etapas para a criação do Projeto
 - 01 - Le Scone
@@ -17,6 +19,3 @@
 - 10 - Menu
 - 11 - Contato
 - 12 - Rodapé
-
-
-![Le Scone](lescone.gif)
