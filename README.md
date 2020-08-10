@@ -19,4 +19,4 @@
 - 12 - Rodapé
 
 
-![Le Scone](le-scone.jpg)
+![Le Scone](lescone.gif)
