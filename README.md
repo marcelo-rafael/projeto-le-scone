@@ -19,10 +19,6 @@ This project was developed with the following technologies:
 $ git clone https://github.com/marcelo-rafael/projeto-le-scone
 ```
 
-## License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/marcelo-rafael/projeto-le-scone/blob/master/LICENSE) for more information.
-
 ## Author
 
 <img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Author"/>
@@ -53,4 +49,9 @@ Made with: by Marcelo Rafael Gonçalves
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
 </p>
+
+## License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/marcelo-rafael/projeto-le-scone/blob/master/LICENSE) for more information.
+
 
